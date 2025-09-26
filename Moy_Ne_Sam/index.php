@@ -18,12 +18,12 @@
     </nav>
 
     <main>
+        <footer>
+            2025
+        <footer>
     </main>
 
     <script src="js/script.js"></script>
-    
-    <footer>
-        2025
-    <footer>
+
 </body>
 </html>
