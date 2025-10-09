@@ -18,8 +18,16 @@
     </nav>
 
     <main>
+    <h1>Авторизация</h1> 
+    <label>Логин</label>
+    <input type="text" name="login" >
+
+    <label>Пароль</label>
+    <input type="text" name="password" >
+    <button>Вход</button>
+    <p class="error"></p>
         <footer>
-            2025
+            <h3>2025</h3>
         <footer>
     </main>
 
