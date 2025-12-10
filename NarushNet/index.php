@@ -54,6 +54,7 @@ ob_start();
     <div class="col-md-6 col-lg-4">
         <div class="card shadow">
             <div class="card-body">
+                <h2 class="h4 mb-4 text-center">Авторизация</h2>
                 <form method="post" action="index.php">
                     <div class="mb-3">
                         <label for="login" class="form-label">Логин</label>
