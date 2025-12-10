@@ -48,7 +48,7 @@ if (isset($_SESSION['user'])) {
     <header class="bg-white shadow-sm">
         <div class="container">
             <div class="d-flex align-items-center justify-content-center py-3">
-                <img src='images/logo.jpg' alt='логотип' class="me-3" style="width: 80px; height: auto;">
+                <img src='images/logo.jpeg' alt='логотип' class="me-3" style="width: 80px; height: auto;">
                 <h1 class="h3 mb-0">НарушениямНет</h1>
             </div>
         </div>
